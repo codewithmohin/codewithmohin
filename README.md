@@ -1,4 +1,4 @@
-yyyy # 👋 Hey, I'm Mohin
+yyyyy # 👋 Hey, I'm Mohin
 
 💡 AI + Code Strategist | 🎧 Vibe-Driven Coder  
 🛠️ Frontend Dev | 📍 Gokak, Karnataka, India  
