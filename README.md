@@ -1,6 +1,6 @@
   # 👋 Hey, I’m Mohin
 
-💡 **AI + Code Strategist** | 🎧 Vibe-Driven Coder  
+💡 **AI + Code Strategist** | 🎧 Vibe-Driven Coder   
 🛠️ **Frontend / Full-Stack Developer**  
 📍 Gokak, Karnataka, India
 
