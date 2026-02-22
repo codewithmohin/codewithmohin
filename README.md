@@ -7,8 +7,7 @@
 I blend clean frontend design with creative prompt engineering to build **AI-powered tools, smart UIs, and interactive web experiences**.   
 I enjoy turning ideas into scalable, real-world products.
 
----
-
+ 
 ## 🔭 Currently Working On
 - Interactive frontend projects with **modern animations**
 - AI-assisted tools & micro-products
