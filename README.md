@@ -34,7 +34,7 @@ I enjoy turning ideas into scalable, real-world products.
 - Prompt engineering for developers
 - Building clean developer portfolios
 
----
+
 
 ## ⚡ Fun Fact
 I care as much about **how a site feels** as how it functions.
