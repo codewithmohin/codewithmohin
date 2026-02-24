@@ -13,7 +13,6 @@ I enjoy turning ideas into scalable, real-world products.
 - AI-assisted tools & micro-products
 - Personal portfolio experiments inspired by award-winning websites
 
----
 
 ## 🌱 Currently Learning
 - **GSAP & advanced UI animations**
