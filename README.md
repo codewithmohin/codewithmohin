@@ -19,7 +19,7 @@ I enjoy turning ideas into scalable, real-world products.
 - Scalable frontend architecture
 - Clean Git & open-source contribution workflows
 
----
+--
 
 ## 🤝 Looking to Collaborate On
 - Frontend-heavy projects
