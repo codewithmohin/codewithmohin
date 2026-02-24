@@ -26,7 +26,7 @@ I enjoy turning ideas into scalable, real-world products.
 - Creative developer portfolios
 - Open-source tools with real users
 
----
+
 
 ## 💬 Ask Me About
 - HTML, CSS, JavaScript, React
