@@ -39,14 +39,14 @@ I enjoy turning ideas into scalable, real-world products.
 ## ⚡ Fun Fact
 I care as much about **how a site feels** as how it functions.
 
----
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mohin_28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohin-nadaf-8b08ba337)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohinnadaf722@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 **Frontend:**  
@@ -61,14 +61,14 @@ Git · GitHub · GitHub Actions · Netlify · Vercel · PowerShell
 **Design:**  
 Figma · Framer · Canva
 
----
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=codewithmohin&theme=dark&hide_border=true&include_all_commits=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=codewithmohin&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohin&theme=dark&hide_border=true&layout=compact)
 
----
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codewithmohin&theme=radical&no-frame=true&margin-w=6)
