@@ -100,15 +100,37 @@ Focused on blending **design + logic + real-world impact**.
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Featured Projects (Add Your Best Work)
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/codewithmohin">
+<img src="https://img.shields.io/badge/🤖%20AI%20Tool%20Builder-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</td>
 
-🔹 AI Tool Builder  
-🔹 Animated Portfolio  
-🔹 SaaS Idea Validator  
-🔹 AgriNXT (Your Hackathon Project 🔥)
+<td align="center">
+<a href="https://github.com/codewithmohin">
+<img src="https://img.shields.io/badge/🎨%20Animated%20Portfolio-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
+<a href="https://github.com/codewithmohin">
+<img src="https://img.shields.io/badge/📊%20SaaS%20Validator-222222?style=for-the-badge&logo=google-analytics&logoColor=orange"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/codewithmohin">
+<img src="https://img.shields.io/badge/🌾%20AgriNXT-333333?style=for-the-badge&logo=leaflet&logoColor=green"/>
+</a>
+</td>
+</tr>
+</table>
 
 ## 🧠 Dev Philosophy
 
