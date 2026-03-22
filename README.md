@@ -1,15 +1,116 @@
-# 💫 About Me:
-# 👋 Hey, I’m Mohin<br> <br>💡 **AI + Code Strategist** | 🎧 Vibe-Driven Coder    <br>🛠️ **Frontend / Full-Stack Developer**  <br>📍 Gokak, Karnataka, India<br><br>I blend clean frontend design with creative prompt engineering to build **AI-powered tools, smart UIs, and interactive web experiences**.   <br>I enjoy turning ideas into scalable, real-world products.<br><br> <br>## 🔭 Currently Working On<br>- Interactive frontend projects with **modern animations**<br>- AI-assisted tools & micro-products<br>- Personal portfolio experiments inspired by award-winning websites<br><br><br>## 🌱 Currently Learning<br>- **GSAP & advanced UI animations**<br>- Scalable frontend architecture<br>- Clean Git & open-source contribution workflows<br><br><br><br>## 🤝 Looking to Collaborate On<br>- Frontend-heavy projects<br>- Creative developer portfolios<br>- Open-source tools with real users<br><br><br><br>## 💬 Ask Me About<br>- HTML, CSS, JavaScript, React<br>- Frontend animations & UI polish<br>- Prompt engineering for developers<br>- Building clean developer portfolios<br><br><br><br>## ⚡ Fun Fact<br>I care as much about **how a site feels** as how it functions.<br>
+<!-- HEADER -->
+<h1 align="center">Hey 👋 I'm Mohin</h1>
+<h3 align="center">🚀 AI + Code Strategist | Frontend Wizard | Builder of Smart Experiences</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+Tool+Builder;Creative+UI+Designer;Building+Real+World+Products" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohin-nadaf-8b08ba337/) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithmohin&theme=dark&hide_border=true&count_private=true)
+## 💫 About Me
 
- ## 🏆 GitHub Trophies
-## 📊 GitHub Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithmohin&theme=github_dark)
+💡 AI + Code Strategist  
+🛠️ Frontend / Full-Stack Developer  
+📍 Gokak, Karnataka, India  
+
+I build **AI-powered tools, modern UI experiences, and scalable products**.  
+Focused on blending **design + logic + real-world impact**.
+
+---
+
+## 🚀 What I'm Building
+
+✨ AI-powered micro tools  
+✨ Interactive animated websites (GSAP)  
+✨ Portfolio experiments (award-level UI)  
+✨ Real-world SaaS ideas  
+
+---
+
+## 🧠 Currently Learning
+
+⚡ GSAP & advanced animations  
+⚡ Scalable frontend systems  
+⚡ Open-source & clean Git workflows  
+
+---
+
+## 🤝 Let's Collaborate
+
+- Frontend-heavy projects  
+- Creative dev portfolios  
+- AI + UI based products  
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just build websites — I craft **experiences**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohin-nadaf-8b08ba337/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,firebase,aws,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithmohin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohin&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithmohin&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmohin&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📈 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithmohin&theme=github_dark"/>
+</p>
+
+---
+
+## 🚀 Featured Projects (Add Your Best Work)
+
+🔹 AI Tool Builder  
+🔹 Animated Portfolio  
+🔹 SaaS Idea Validator  
+🔹 AgriNXT (Your Hackathon Project 🔥)
+
+---
+
+## 🧠 Dev Philosophy
+
+```txt
+Design + Logic + Emotion = Great Product
