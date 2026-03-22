@@ -10,10 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithmohin&theme=dark&hide_border=true&count_private=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codewithmohin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=codewithmohin&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codewithmohin&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
