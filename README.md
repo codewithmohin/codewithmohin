@@ -132,7 +132,51 @@ Focused on blending **design + logic + real-world impact**.
 </tr>
 </table>
 
-## 🧠 Dev Philosophy
+## 🏆 Achievements
 
-```txt
-Design + Logic + Emotion = Great Product
+<p align="center">
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/YOLO%20Badge-FF6F61?style=for-the-badge&logo=github&logoColor=white"/>
+</summary>
+
+<br>
+
+🔥 **YOLO Badge**  
+Awarded for active contributions and experimentation.  
+Shows consistency and trying new things.
+
+</details>
+
+---
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/Pull%20Shark-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</summary>
+
+<br>
+
+🦈 **Pull Shark**  
+Earned by successfully merging pull requests.  
+Represents collaboration & contribution to projects.
+
+</details>
+
+---
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/Quickdraw-FFA500?style=for-the-badge&logo=github&logoColor=white"/>
+</summary>
+
+<br>
+
+⚡ **Quickdraw Badge**  
+Given for fast responses in issues & PRs.  
+Shows speed + efficiency.
+
+</details>
+
+</p>
