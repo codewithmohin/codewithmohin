@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋 I'm Mohin</h1>
+<h1 align="center">Hey 👋 I'm Mohin</h1>
 <h3 align="center">🚀 AI + Code Strategist | Frontend Wizard | Builder of Smart Experiences</h3>
 
 <p align="center">
@@ -51,8 +51,8 @@ Focused on blending **design + logic + real-world impact**.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohin-nadaf-8b08ba337/" target="blank">
+<p align="center">
+<a href="https://www.linkedin.com/in/mohin-nadaf-8b08ba337/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -64,6 +64,54 @@ Focused on blending **design + logic + real-world impact**.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,firebase,aws,vercel" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://fly-rouge.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Fly%20Rouge%20(Live)-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌾%20AgriNXT%20(Live)-14532d?style=for-the-badge&logo=leaflet&logoColor=green"/>
+</a>
+
+</p>
+
+### 🧠 Project Highlights
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🚀 Fly Rouge  
+🔗 <a href="https://fly-rouge.vercel.app/" target="_blank">Live Demo</a>  
+
+✨ Modern animated UI  
+✨ Smooth interactions (GSAP)  
+✨ Performance-optimized frontend  
+
+🛠 Tech: React • Tailwind • GSAP • Vercel  
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌾 AgriNXT  
+🔗 <a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">Live Demo</a>  
+
+✨ Smart agriculture platform  
+✨ Real-world problem solving  
+✨ SaaS-ready architecture  
+
+🛠 Tech: React • Node.js • MongoDB • Vercel  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,26 +147,7 @@ Focused on blending **design + logic + real-world impact**.
 </p>
 
 ---
-## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://fly-rouge.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Fly%20Rouge%20(Live)-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌾%20AgriNXT%20(Live)-14532d?style=for-the-badge&logo=leaflet&logoColor=green"/>
-</a>
-
-</p>
-
- 
-
- 
-
- 
-</table>
 ## 🏆 Achievements
 
 <p align="center">
@@ -131,8 +160,7 @@ Focused on blending **design + logic + real-world impact**.
 <br>
 
 🔥 **YOLO Badge**  
-Awarded for active contributions and experimentation.  
-Shows consistency and trying new things.
+Awarded for active contributions and experimentation.
 
 </details>
 
@@ -146,8 +174,7 @@ Shows consistency and trying new things.
 <br>
 
 🦈 **Pull Shark**  
-Earned by successfully merging pull requests.  
-Represents collaboration & contribution to projects.
+Earned by successfully merging pull requests.
 
 </details>
 
@@ -161,9 +188,14 @@ Represents collaboration & contribution to projects.
 <br>
 
 ⚡ **Quickdraw Badge**  
-Given for fast responses in issues & PRs.  
-Shows speed + efficiency.
+Fast responses in issues & PRs.
 
 </details>
 
 </p>
+
+---
+
+## 🚀 Final Note
+
+> I don’t just code — I build **impact-driven digital products**.
