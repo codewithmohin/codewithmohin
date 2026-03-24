@@ -164,35 +164,7 @@ Focused on blending **design + logic + real-world impact**.
 
 </p>
 
-### 🧠 Project Highlights
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🚀 Fly Rouge  
-🔗 <a href="https://fly-rouge.vercel.app/" target="_blank">Live Demo</a>  
-
-✨ Animated UI  
-✨ Smooth UX  
-✨ Modern frontend  
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌾 AgriNXT  
-🔗 <a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">Live Demo</a>  
-
-✨ Real-world SaaS  
-✨ Smart agriculture  
-✨ Scalable system  
-
-</td>
-</tr>
-</table>
-
-## 🏆 Achievements
+ 
 
 <p align="center">
 
