@@ -113,20 +113,9 @@ Focused on blending **design + logic + real-world impact**.
 
 </p>
 
----
+ 
 
-### 🧠 Projects Breakdown
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🚀 Fly Rouge  
-🔗 <a href="https://fly-rouge.vercel.app/" target="_blank">Live Demo</a>  
-
-✨ Modern animated website  
-✨ Smooth UI/UX interactions  
-✨ Built with performance-first mindset  
+ 
 
 </td>
 
