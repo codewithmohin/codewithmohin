@@ -1,5 +1,4 @@
- <!-- HEADER -->
-<h1 align="center">Hey 👋 I'm Mohin</h1>
+ <h1 align="center">Hey 👋 I'm Mohin</h1>
 <h3 align="center">🚀 AI + Code Strategist | Frontend Wizard | Builder of Smart Experiences</h3>
 
 <p align="center">
