@@ -148,6 +148,50 @@ Focused on blending **design + logic + real-world impact**.
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://fly-rouge.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Fly%20Rouge%20(Live)-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌾%20AgriNXT%20(Live)-14532d?style=for-the-badge&logo=leaflet&logoColor=green"/>
+</a>
+
+</p>
+
+### 🧠 Project Highlights
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🚀 Fly Rouge  
+🔗 <a href="https://fly-rouge.vercel.app/" target="_blank">Live Demo</a>  
+
+✨ Animated UI  
+✨ Smooth UX  
+✨ Modern frontend  
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌾 AgriNXT  
+🔗 <a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">Live Demo</a>  
+
+✨ Real-world SaaS  
+✨ Smart agriculture  
+✨ Scalable system  
+
+</td>
+</tr>
+</table>
+
 ## 🏆 Achievements
 
 <p align="center">
