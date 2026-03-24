@@ -101,36 +101,47 @@ Focused on blending **design + logic + real-world impact**.
 ---
 ## 🚀 Featured Projects
 
+<p align="center">
+
+<a href="https://fly-rouge.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Fly%20Rouge%20(Live)-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌾%20AgriNXT%20(Live)-14532d?style=for-the-badge&logo=leaflet&logoColor=green"/>
+</a>
+
+</p>
+
+---
+
+### 🧠 Projects Breakdown
+
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/codewithmohin">
-<img src="https://img.shields.io/badge/🤖%20AI%20Tool%20Builder-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<td width="50%" align="center">
+
+### 🚀 Fly Rouge  
+🔗 <a href="https://fly-rouge.vercel.app/" target="_blank">Live Demo</a>  
+
+✨ Modern animated website  
+✨ Smooth UI/UX interactions  
+✨ Built with performance-first mindset  
+
 </td>
 
-<td align="center">
-<a href="https://github.com/codewithmohin">
-<img src="https://img.shields.io/badge/🎨%20Animated%20Portfolio-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-</td>
-</tr>
+<td width="50%" align="center">
 
-<tr>
-<td align="center">
-<a href="https://github.com/codewithmohin">
-<img src="https://img.shields.io/badge/📊%20SaaS%20Validator-222222?style=for-the-badge&logo=google-analytics&logoColor=orange"/>
-</a>
-</td>
+### 🌾 AgriNXT  
+🔗 <a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">Live Demo</a>  
 
-<td align="center">
-<a href="https://github.com/codewithmohin">
-<img src="https://img.shields.io/badge/🌾%20AgriNXT-333333?style=for-the-badge&logo=leaflet&logoColor=green"/>
-</a>
+✨ Smart agriculture platform  
+✨ Real-world problem solving  
+✨ Scalable SaaS vision  
+
 </td>
 </tr>
 </table>
-
 ## 🏆 Achievements
 
 <p align="center">
