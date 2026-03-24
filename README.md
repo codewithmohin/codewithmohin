@@ -117,19 +117,7 @@ Focused on blending **design + logic + real-world impact**.
 
  
 
-</td>
-
-<td width="50%" align="center">
-
-### 🌾 AgriNXT  
-🔗 <a href="https://agri-nexus-northeast-bloom.vercel.app/" target="_blank">Live Demo</a>  
-
-✨ Smart agriculture platform  
-✨ Real-world problem solving  
-✨ Scalable SaaS vision  
-
-</td>
-</tr>
+ 
 </table>
 ## 🏆 Achievements
 
